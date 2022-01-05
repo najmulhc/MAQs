@@ -58,6 +58,28 @@ text-align: left;
     margin-top: 35px;
     padding: 10px 30px;
 }
+.boss{
+    justify-content: center;
+}
 .left{
     margin-left: 40px;
+}
+.boss-text{
+    margin-top: 30px;
+    margin-left: 0;
+}
+.boss-text h3{
+    font-family: Roboto;
+    font-size: 42px;
+    font-weight: normal;
+}
+.boss-text h4{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+}
+.boss-text p{
+    font-family: Roboto;
+    color: #a4a4a4;
+    font-weight: 300;
 }
