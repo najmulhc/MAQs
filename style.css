@@ -6,6 +6,7 @@ body{
     display: flex;
     justify-content: space-between;
     margin: 2% 5%;
+
 }
 .login-button{
     padding: 5px 25px;
@@ -14,6 +15,7 @@ body{
     border-radius: 5px;
     border:none;
     color: white;
+  
 }
 .top{
     display: flex;
@@ -88,7 +90,32 @@ text-align: left;
     justify-content: center;
 }
 .single-card{
-    width: 18%;
-    padding: 15px;
+    
+    padding: 25px;
     margin:10px;
+    font-family: Roboto;
+}
+.single-card img{
+    margin: 0 auto;
+}
+.single-card h4{
+    font-size: 18px;
+    font-weight: 500;
+}
+.batch{
+    font-weight: 400;
+}
+.single-card h3{
+    font-size: 26px;
+    font-weight: 500;
+}
+.enrollpage{
+    padding: 10px 30px;
+}
+#courses{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 64px;
+    color: rgb(20, 20, 20);
+    margin: 30px 0;
 }
